@@ -1,9 +1,9 @@
 header{
-	background: #BBBBBB;
+	background: #FFDEAD;
 	padding: 20px 0;
 }
 #logo{
-	width: 40%;
+	width: 30%;
 }
 .caixa{
 	position: relative;
@@ -12,7 +12,7 @@ header{
 }
 nav {
 	position: absolute;
-	top: 110px;
+	top: 120px;
 	right: 0;
 }
 nav li{
@@ -39,5 +39,5 @@ nav a{
 	
 	}
 	#banner{
-		width: 30%
+		width: 20%
 	}
